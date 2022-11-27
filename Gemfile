@@ -15,3 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
